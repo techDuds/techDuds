@@ -13,20 +13,8 @@
 
 </div><br/>
 
-### Sobre Mim 
-
-- Estudante apaixonada por tecnologia.
-- Aprendendo e evoluindo a cada dia.
-- Tornar-me uma desenvolvedora front-end.
 
 
-### Meus Interesses
-
-- Desenvolvimento Web.
-- Inteligência Artificial e Aprendizado de Máquina.
-- Desenvolvimento de aplicativos móveis.
-- Explorando novas tecnologias.
-
-### Vamos Conectar!🚀
+### Vamos Conectar!
 
 Fique à vontade para me seguir aqui no GitHub e explorar meus projetos. Adoraria conectar com outros desenvolvedores, aprender e crescer juntos. Se você tem dicas, orientações ou sugestões, sinta-se à vontade para compartilhar.
