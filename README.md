@@ -3,9 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maria-eduarda-cordeiro-36125b1a0)
 
 
-
-![MariaEduardaCordeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaEduardaCordeiro&show_icons=true&theme=dracula)
-
 ### Tecnologia que estou estudando!
 
 <div style="display: inline_block"><br/>
