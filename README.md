@@ -10,8 +10,3 @@
 
 </div><br/>
 
-
-
-### Vamos Conectar!
-
-Fique à vontade para me seguir aqui no GitHub e explorar meus projetos. Adoraria conectar com outros desenvolvedores, aprender e crescer juntos. Se você tem dicas, orientações ou sugestões, sinta-se à vontade para compartilhar.
